@@ -26,7 +26,7 @@ MovieHub es una aplicación web que te permite explorar y descubrir una amplia v
 
 ## Capturas de pantalla:
 
-![Captura de pantalla 1](https://www.dropbox.com/scl/fi/1h3wxynw43ycnl9jtqmcm/home.png?rlkey=dutv39jcncexhpag2ilqcmhpp&dl=1)
+![Captura de pantalla 1](https://www.dropbox.com/scl/fi/1h3wxynw43ycnl9jtqmcm/home.png?rlkey=dutv39jcncexhpag2ilqcmhpp&dl=0)
 ![Captura de pantalla 2]()
 ![Captura de pantalla 3](url_de_la_imagen)
 
